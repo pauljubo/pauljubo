@@ -1,7 +1,7 @@
 ### Hi there 👋
 Currently learning programs such as HTML, CSS, and other various libraries.
 
-For Assingment 3 in MULT 128, I decided to use Javascript and CSS libraries such as Animate on Scroll & Animate.css.
+For Assignment 3 in MULT 128, I decided to use Javascript and CSS libraries such as Animate on Scroll & Animate.css.
 
 <!--
 **pauljubo/pauljubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

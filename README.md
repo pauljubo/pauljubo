@@ -1,7 +1,7 @@
 ### Hi there 👋
 Currently learning programs such as HTML, CSS, and other various libraries.
 
-For Assignment 3 in MULT 128, I decided to use Javascript and CSS libraries such as Animate on Scroll & Animate.css.
+For Assignment 3 in MULT 128, I decided to use Bootstrap for almost the entire layout of the website. I also decided to use Javascript and CSS libraries such as Animate on Scroll & Animate.css to enchance the pages more. Some pages would include Javascript while others would use CSS, this was done to make sach page unique and so they wouldn't feel bloated.
 
 <!--
 **pauljubo/pauljubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
